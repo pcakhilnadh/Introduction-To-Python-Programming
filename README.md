@@ -13,7 +13,8 @@ Step 3 : Click on Fork or edit icon . This will create a copy of this repository
 Step 4 : Go To your Repository . Select **Introduction-To-Python-Programming** 
 Step 5 : Select the File you want to work on 
 Step 6 : Edit File
-Step 7 : 
+Step 7 : Make some changes in the File . And Click on Propose Changes .
+![Alt text](images/Make%20Some%20Changes.png?raw=true "Title")
 
 ### Contents
 
