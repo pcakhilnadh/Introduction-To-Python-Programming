@@ -32,7 +32,7 @@
 
 ![Alt text](images/Make%20Some%20Changes.png?raw=true "Title")
 
-8. Create a Pull Request
+8. Create a Pull Request . Remember to Create a branch of your name when you Pull a Request
 
 ![Alt text](images/Create%20A%20Pull%20Request.png?raw=true "Title")
 
