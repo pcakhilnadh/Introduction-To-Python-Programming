@@ -1,6 +1,6 @@
 # **Welcome To The World Of Python Programming** :computer:
 
-[![HitCount](http://hits.dwyl.io/itzpc/Introduction-To-Python-Programming.svg)](http://hits.dwyl.io/itzpc/Introduction-To-Python-Programming)
+[![HitCount](http://hits.dwyl.io/itzpc/Introduction-To-Python-Programming.svg)](https://github.com/itzpc/Introduction-To-Python-Programming)
 
 #### This is a sample repository created for the talk on " Introduction to Python Programming " for the [Google MLCC Workshop](https://developers.google.com/machine-learning/crash-course/) in NIT Jalandhar
 **Speaker : [Pc](https://www.linkedin.com/in/pcakhilnadh)**
