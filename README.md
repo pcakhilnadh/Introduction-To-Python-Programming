@@ -38,7 +38,8 @@
 
 9. Submit the request using commit .
 
-![Alt text](images/images/Submit%20the%20changes.png?raw=true "Title")
+![Alt text](images/Submit%20the%20changes.png?raw=true "Title")
+
 
 #### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
 
