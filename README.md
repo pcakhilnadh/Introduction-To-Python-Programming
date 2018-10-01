@@ -8,7 +8,7 @@
 
 1. Introduction
    - Introduction to Python Programming
-   - Introduction on How to Use GitHub Repository
+   - [Introduction on How to Use GitHub Repository](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#introduction-on-how-to-use-github-repository)
 2. Data Types
 3. Iterative Statements
 4. Functions
