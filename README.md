@@ -15,12 +15,12 @@
 3. Iterative Statements
 4. Functions
 5. Coding Question
-6. [Contribute]()
+6. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
 
 #### Introduction on How to Use GitHub Repository
 
 #### Contribute
 
 You are welcome to contribute to this repository.
-[![contributions welcome](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
+[![contributions welcome]](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
 
