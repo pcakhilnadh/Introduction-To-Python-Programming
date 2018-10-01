@@ -7,13 +7,13 @@
 
 #### Introduction on How to Use GitHub Repository
 
-1 : Log on to your [GitHub](https://github.com/login) Account.
-2 : Go to [this](https://github.com/itzpc/Introduction-To-Python-Programming) Repository 
-3 : Click on Fork or edit icon . This will create a copy of this repository in our GitHub account.
-4 : Go To your Repository . Select **Introduction-To-Python-Programming** 
-5 : Select the File you want to work on 
-6 : Edit File
-7 : Make some changes in the File . And Click on Propose Changes .
+1. Log on to your [GitHub](https://github.com/login) Account.
+2. Go to [this](https://github.com/itzpc/Introduction-To-Python-Programming) Repository 
+3. Click on Fork or edit icon . This will create a copy of this repository in our GitHub account.
+4. Go To your Repository . Select **Introduction-To-Python-Programming** 
+5. Select the File you want to work on 
+6. Edit File
+7. Make some changes in the File . And Click on Propose Changes .
 
 ![Alt text](images/Make%20Some%20Changes.png?raw=true "Title")
 
