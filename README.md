@@ -18,7 +18,7 @@
 5. Coding Question
 6. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
 
-
+***
 
 #### Introduction on How to Use GitHub Repository
 
@@ -36,12 +36,14 @@
 
 ![Alt text](images/Create%20A%20Pull%20Request.png?raw=true "Title")
 
-9. Submit the request using commit .
+9. Submit the request by clicking on Create Pull Request . And Yeah.. You are Done !
 
 ![Alt text](images/Submit%20the%20changes.png?raw=true "Title")
 
 
 #### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
+
+***
 
 You are welcome to contribute to [this](https://github.com/itzpc/Introduction-To-Python-Programming/issues) repository.
 
