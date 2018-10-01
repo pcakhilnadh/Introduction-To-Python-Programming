@@ -5,6 +5,21 @@
 #### This is a sample repository created for the talk on " Introduction to Python Programming " for the [Google MLCC Workshop](https://developers.google.com/machine-learning/crash-course/) in NIT Jalandhar
 **Speaker : [Pc](https://www.linkedin.com/in/pcakhilnadh)**
 
+### Contents
+
+1. Introduction
+   - [Introduction on How to Use GitHub Repository]()
+   - Introduction to Python Programming
+    - [C Program output](intro/cprog.c)
+    - [Python Program output](intro/Pyprog.c)
+2. Data Types
+3. Iterative Statements
+4. Functions
+5. Coding Question
+6. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
+
+
+
 #### Introduction on How to Use GitHub Repository
 
 1. Log on to your [GitHub](https://github.com/login) Account.
@@ -17,17 +32,13 @@
 
 ![Alt text](images/Make%20Some%20Changes.png?raw=true "Title")
 
-### Contents
+8. Create a Pull Request 
 
-1. Introduction
-2. Data Types
-3. Iterative Statements
-4. Functions
-5. Coding Question
-6. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
+![Alt text](images/Create%20A%20Pull%20Request.png?raw=true "Title")
 
+9. Submit the request using commit .
 
-
+![Alt text](images/images/Submit%20the%20changes.png?raw=true "Title")
 
 #### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
 
