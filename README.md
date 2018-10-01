@@ -8,7 +8,7 @@
 ### Contents
 
 1. Introduction
-   - [Introduction on How to Use GitHub Repository]()
+   - [Introduction on How to Use GitHub Repository](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#introduction-on-how-to-use-github-repository)
    - Introduction to Python Programming
     - [C Program output](intro/cprog.c)
     - [Python Program output](intro/Pyprog.c)
