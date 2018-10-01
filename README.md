@@ -22,6 +22,6 @@
 #### Contribute
 
 You are welcome to contribute to this repository.
-[![contributions welcome]](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
+
 
