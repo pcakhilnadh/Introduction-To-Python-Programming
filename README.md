@@ -11,7 +11,7 @@
    - [Introduction on How to Use GitHub Repository](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#introduction-on-how-to-use-github-repository)
    - Introduction to Python Programming
     - [C Program output](intro/cprog.c)
-    - [Python Program output](intro/Pyprog.c)
+    - [Python Program output](intro/Pyprog.py)
 2. Data Types
 3. Iterative Statements
 4. Functions
@@ -23,16 +23,16 @@
 #### Introduction on How to Use GitHub Repository
 
 1. Log on to your [GitHub](https://github.com/login) Account.
-2. Go to [this](https://github.com/itzpc/Introduction-To-Python-Programming) Repository 
+2. Go to [this](https://github.com/itzpc/Introduction-To-Python-Programming) Repository
 3. Click on Fork or edit icon . This will create a copy of this repository in our GitHub account.
-4. Go To your Repository . Select **Introduction-To-Python-Programming** 
-5. Select the File you want to work on 
+4. Go To your Repository . Select **Introduction-To-Python-Programming**
+5. Select the File you want to work on
 6. Edit File
 7. Make some changes in the File . And Click on Propose Changes .
 
 ![Alt text](images/Make%20Some%20Changes.png?raw=true "Title")
 
-8. Create a Pull Request 
+8. Create a Pull Request
 
 ![Alt text](images/Create%20A%20Pull%20Request.png?raw=true "Title")
 
@@ -46,6 +46,3 @@
 ***
 
 You are welcome to contribute to [this](https://github.com/itzpc/Introduction-To-Python-Programming/issues) repository.
-
-
-
