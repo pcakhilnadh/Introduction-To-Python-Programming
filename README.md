@@ -46,5 +46,3 @@
 ***
 
 You are welcome to contribute to [this](https://github.com/itzpc/Introduction-To-Python-Programming/issues) repository.
-
-aas
