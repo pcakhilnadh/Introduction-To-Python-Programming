@@ -12,11 +12,12 @@
    - Introduction to Python Programming
     - [C Program output](intro/cprog.c)
     - [Python Program output](intro/Pyprog.py)
-2. Data Types
-3. Iterative Statements
-4. Functions
-5. Coding Question
-6. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
+2. [Operators](operators/)
+3. Data Types
+4. Iterative Statements
+5. Functions
+6. Coding Question
+7. [Contribute](https://github.com/itzpc/Introduction-To-Python-Programming/blob/master/README.md#contribute)
 
 ***
 
