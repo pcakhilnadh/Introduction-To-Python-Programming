@@ -5,6 +5,8 @@
 #### This is a sample repository created for the talk on " Introduction to Python Programming " for the [Google MLCC Workshop](https://developers.google.com/machine-learning/crash-course/) in NIT Jalandhar
 **Speaker : [Pc](https://www.linkedin.com/in/pcakhilnadh)**
 
+Link to Presentation is [**Here**](https://www.slideshare.net/akhilnadhpc/introduction-to-python-programming-118000845)
+
 ### Contents
 
 1. Introduction
