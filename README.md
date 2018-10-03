@@ -43,9 +43,9 @@ Link to Presentation is [**Here**](https://www.slideshare.net/akhilnadhpc/introd
 
 ![Alt text](images/Submit%20the%20changes.png?raw=true "Title")
 
+***
 
 #### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/itzpc/Introduction-To-Python-Programming/issues)
 
-***
-
 You are welcome to contribute to [this](https://github.com/itzpc/Introduction-To-Python-Programming/issues) repository.
+**Make Some Changes**
