@@ -1,7 +1,7 @@
 def main():
-    food = 'spam'
+    food = 'Pizza'
 
-    if food == 'spam':
+    if food == 'Pizza':
         print('Ummmm, my favorite!')
         print('I feel like saying it 100 times...')
         print(100 * (food + '! '))
